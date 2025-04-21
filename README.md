@@ -30,7 +30,14 @@
 ---
 
 ## 📂 Folder Structure
-BuildCon/ ├── index.html ├── css/ │ └── style.css ├── assets/ │ └── images, icons, etc. └── README.md
+BuildCon/
+├── index.html              # Main landing page
+├── css/
+│   └── style.css           # Custom styles
+├── assets/
+│   ├── images/             # Project images
+│   └── icons/              # Icons used in design
+└── README.md               # Project documentation
 
 ---
 
