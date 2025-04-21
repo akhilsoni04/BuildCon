@@ -3,7 +3,7 @@
 **BuildCon** is a responsive and modern landing page template built using **HTML**, **CSS**, and **Bootstrap 5**. It is designed specifically for construction companies, builders, architecture firms, and similar businesses who want a clean and professional online presence.
 
 ## 📸 Preview
-(![Project Preview](assets/"view_of_website.png")
+(![Project Preview](assets/"view%20of%20website.png")
 
 ---
 
