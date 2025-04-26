@@ -60,7 +60,7 @@ cd BuildCon
 3. Open in Browser Open index.html in your browser to view the website.
 
 🌐 Live Demo
-🔗 View Live Demo
+🔗 [View Live Demo](https://akhilsoni04.github.io/BuildCon/)
 	
 ✨ Contributing
 Pull requests are welcome! For major changes, please open an issue first to discuss what you’d like to change.
